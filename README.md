@@ -108,3 +108,5 @@ This project serves as a foundational example that can be extended into more com
 
 This notebook presents an end-to-end implementation of an image classification pipeline using a **Convolutional Neural Network (CNN)** in **TensorFlow**, developed interactively in **Jupyter Notebook**. From dataset exploration to model evaluation, this project captures the essential concepts of deep learning in image recognition. With clean code, visualization, and solid performance, it serves as a solid base for future enhancements and real-world applications in computer vision.
 
+#OUTPUT
+https://github.com/vaish-navi0007/IMAGE-CLASSIFICATION-MODEL/issues/1#issue-3045739969
