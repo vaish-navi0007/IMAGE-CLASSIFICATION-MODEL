@@ -12,6 +12,8 @@ INTERN ID : CT04WT240
 
 "MENTOR" : NEELA SANTOSH
 
+---
+
 #DESCRIPTION
 
 This project demonstrates the development of a **Convolutional Neural Network (CNN)** to classify images from a dataset into predefined categories. CNNs are a powerful class of deep neural networks specifically designed for image data and are widely used in computer vision tasks such as object detection, image classification, and face recognition. This project follows a complete deep learning workflow, from loading and preprocessing image data to training a CNN model and evaluating its performance.
