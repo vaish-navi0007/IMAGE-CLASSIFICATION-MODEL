@@ -18,6 +18,7 @@ This project demonstrates the development of a **Convolutional Neural Network (C
 
 For this implementation, the **CIFAR-10** dataset has been used. It is a well-known benchmark dataset in the field of computer vision and contains 60,000 32x32 color images categorized into 10 different classes (such as airplane, automobile, bird, cat, etc.), with 6,000 images per class. The dataset is split into 50,000 training images and 10,000 test images. CIFAR-10 is included in TensorFlow/Keras’s datasets module, which makes it easy to load and use.
 
+---
 
 ### Tools and Technologies Used
 
@@ -27,6 +28,7 @@ For this implementation, the **CIFAR-10** dataset has been used. It is a well-kn
 * **Jupyter Notebook**: The development environment used to build and test the model step-by-step. It provides a clean, interactive way to run and document each stage of the project.
 * **Google Colab or VS Code (Optional)**: The project can also be executed on Google Colab for GPU acceleration or in VS Code with the Jupyter extension installed for local experimentation.
 
+---
 
 ### Dataset Description
 
@@ -45,6 +47,7 @@ The **CIFAR-10** dataset contains small RGB images (32x32 pixels), divided into 
 
 Each image has a corresponding label (from 0 to 9), and the dataset is balanced across classes.
 
+---
 
 ### Project Workflow
 
@@ -80,6 +83,7 @@ Each image has a corresponding label (from 0 to 9), and the dataset is balanced 
    * Visualized training vs validation accuracy/loss over epochs.
    * Plotted confusion matrix and classification report to analyze model prediction performance per class.
 
+---
 
 ### Results and Insights
 
@@ -91,6 +95,7 @@ The CNN achieved high classification accuracy on the CIFAR-10 test set, demonstr
 
 The training curves showed good convergence, and class-wise analysis revealed strong performance in object categories with distinct features (e.g., airplane, truck), while classes like dog and cat had some overlap due to visual similarity.
 
+---
 
 ### Applications of Image Classification
 
@@ -104,6 +109,7 @@ CNN-based image classification is used across industries:
 
 This project serves as a foundational example that can be extended into more complex domains such as transfer learning, multi-label classification, and object detection.
 
+---
 ### Conclusion
 
 This notebook presents an end-to-end implementation of an image classification pipeline using a **Convolutional Neural Network (CNN)** in **TensorFlow**, developed interactively in **Jupyter Notebook**. From dataset exploration to model evaluation, this project captures the essential concepts of deep learning in image recognition. With clean code, visualization, and solid performance, it serves as a solid base for future enhancements and real-world applications in computer vision.
